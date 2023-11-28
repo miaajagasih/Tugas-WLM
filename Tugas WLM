@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+	<html>
+
+   <head>
+
+      <title>HTML Backgorund Color</title>
+
+   </head>
+   <body>
+
+  <p>
+    <img src="https://upload.wikimedia.org/wikipedia/id/4/44/Logo_PENS.png" />
+  </p>
+</body>
+   <body style="background-color:blue;">
+	   
+	   <h1>Hello Kawan Kawan dan Pak Alimudin</h1>
+	   
+      <p>Apa Kabar Hari Ini</p>
+
+  <head>
+    <title>mengganti background di atribut html bgcolor</title>
+  </head>
+  <body>
+    <table border="1" bgcolor="grey">
+      <tr>
+        <th>NAMA</th>
+        <th>NRP</th>
+        <th>KELAS</th>
+		<tr>
+        <td>SANDRA AULIA A</td>
+        <td>5123500046</td>
+        <td>D3 MMB B</td>
+        </tr>
+        <tr>
+        <td>PUTRI PUSPITA S</td>
+        <td>5123500037</td>
+        <td>D3 MMB B</td>
+      </tr>
+      <tr>
+        <td>MIA GALUH DWI M</td>
+        <td>5123500042</td>
+        <td>D3 MMB B</td>
+      </tr>
+    </table>
+  </body>
+</html>
